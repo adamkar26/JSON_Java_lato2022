@@ -1,0 +1,26 @@
+{
+  "imie": "Jan",
+  "naziwsko": "Kowalski",
+  "strona" :{
+    "adres": "example.com",
+    "artykuly": [
+      {
+        "tytul": "Instrukcja obłsugi kota",
+        "data": {
+          "rok": 2020,
+          "miesiac": 4,
+          "dzien": 23
+        }
+      },
+      {
+        "tytul": "Instrukcja obłsugi psa",
+        "data": {
+          "rok": 2020,
+          "miesiac": 5,
+          "dzien": 23
+        }
+      }
+    ]
+  }
+
+}
